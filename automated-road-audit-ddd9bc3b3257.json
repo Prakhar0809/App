@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automated-road-audit",
+  "private_key_id": "ddd9bc3b32573eeb7bf4944121776871df300583",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf2cA8d9yNil6Q\n9Wlk7cDheIgJiiUDwePVZs68FsGE8ikQFu2flOKJOOs5QXGrk2VJfcHz3hdY69d6\ngkjaYitoOlideQYEimuAeRMNfw90Yck6T7QCIutuZZ4H6Fz6IAiO1FluBeJcNWyw\nF4qcpR0BslO6FbUyA88wZup6AV8eteBlqhXoh8cEcoDcIw4iLckz5Eym4hHF6XMq\nCODt/Ow4MJWiszc9eqbpMPlkTMTY3JDPWWJzE+NmBOoO/bu24CC1TLRLrb3cZFVX\nd5e8/Y33JyIwQaHLZfxJfD5xE5yuGlRjqD+S1bvpNl3nhpt1SQbtpy3xNrARq/10\nPst4EfpVAgMBAAECggEAHu+qBCngXeY/Ggfc32MiFqDYlxwMwNbn7JeKgB1ZU4z4\nRHxjfaR3WT5SS9DuGloa2qfDfxpm41c1ayjGx7kDFJdiKgvPjdZqKsGD3fNOvuPj\n6WyedmFitglllbszL1c+wMG5ExGBdv4B7GyJ73oHDJqCGLv1xtm04fWxAG6+hXc3\n0PFb3NS+rTN85rNd/jxvXCc+KQdAyIbV2XG586JyOGLyeC98+Du2SdOLTPQxJXtm\nmVXmupDi3dA8mSccmTGq6pFEUAWI5PXHVKxeS6SBmtPXSQf6xayPvaMZBL3bfVdh\nhyW2eJXLVIT/ooE4lhHTaPjpHV4dI58pfIG0y0CcQQKBgQDh4dC93hCD5dKiJTAe\nlIBHnjnCiD8tFDUYrx0rWAerQmjjYXQeM8DEvwRlgGUHLo4EQ3qI0Pdds5Urtiad\nV8wXTctJlhUqqRC4wuQ6ema88Gtn0aDsAhuPsb65Z6NTi+7W3FQkozdJbo8fOAbO\nKZE49q+3rCOjfUw844/qivRsYQKBgQC1Kgm/lFas6eGTciCRM98vulPqMt9Jak/2\nUq7Y809JPSBGgGHHxiCRTtyEN7fc9OJ5RricXcRfDSFAOzyWTpAIeJuG4UbQAQZ7\n3RJM3FKChm/LbW1bTLXNnzOSLgD/h5NO0BiUwkLDsScbAsKJmpZrzis91KBa6GSI\nl6SCGqGydQKBgGFjWvyBod08WXRPVE/a9vPp5D1bQOHOtJXP6mOlsKjGGTLv8YCU\nD6jEMsEQen5+M/zimxIiBoT/yHDwN/XexL/Har5vVvDts6f1XzFXVLRhc+1vFFKt\nFfT+TZziciizTGaW2DBzroKaiFqNbWG1ykclFN27+iGjBBu8gXA+OOQBAoGAIU9T\nb4hEz5JJSaUIW+pftRTbbQphh8wmW7IkN/u0rlCw6IWedO72+gC4Bw9/nP7hzU61\njvqmqptta7P4leJoFUanwgsVzBUELi4duUghW6KAV7UNEGZwXxhQkSYoRNOWwDz+\n6As332dpO0wsnMRxt+y2gq3fthdYtMy9ELb42CkCgYAkwno1HhC1noBzrG+aqHb1\nZq1iAn0qgkm92Np4adA8F7AHXt3SVDiMeAV/N9Sw1yK9KEHggbh5za4UkQNvAsNO\noAjXoGFiJ969YuxhgsyCInxyiCEMrkLc3aSNB+mZ0Vl7AwsqKoFX4Ch+nuXoUY04\nQaPK47tYK0qq6CoW/WJoTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-oaa0p@automated-road-audit.iam.gserviceaccount.com",
+  "client_id": "105460865240286968148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oaa0p%40automated-road-audit.iam.gserviceaccount.com"
+}
