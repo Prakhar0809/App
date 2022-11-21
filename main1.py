@@ -31,34 +31,34 @@ class UI(QMainWindow):
         self.button1 = self.findChild(QPushButton, "pushButton_2")
 
         self.button.clicked.connect(self.clicker)
-        #self.button1.clicked.connect(self.analyze)
-        self.button1.clicked.connect(self.upload)
-        self.button1.clicked.connect(self.popup)
+        self.button1.clicked.connect(self.analyze)
+        #self.button1.clicked.connect(self.upload)
+        #self.button1.clicked.connect(self.popup)
         self.show()
 
     def clicker(self):
         global file_name
         file_name = QFileDialog.getOpenFileName(self ,'Open image file', "", "")
 
-    #def analyze(self):
-        #os.system("python TrafficSign.py")
+    def analyze(self):
+        os.system("python Pavements.py")
     
  
 
-    def upload(self):
-        file_path = str(file_name[0])
-        bucket = storage.bucket() # storage bucket
-        blob = bucket.blob(file_path)
-        blob.upload_from_filename(file_path)
+    #def upload(self):
+     #   file_path = str(file_name[0])
+      #  bucket = storage.bucket() # storage bucket
+       # blob = bucket.blob(file_path)
+        #blob.upload_from_filename(file_path)
 
 
-    def popup(self):
-        msg = QMessageBox()
-        msg.setWindowTitle("Message")
-        msg.setText("Image uploaded")
-        msg.setStandardButtons(QMessageBox.Ok)
-        msg.setIcon(QMessageBox.Information)
-        msg.exec_()
+    #def popup(self):
+     #   msg = QMessageBox()
+      #  msg.setWindowTitle("Message")
+       # msg.setText("Image uploaded")
+        #msg.setStandardButtons(QMessageBox.Ok)
+        #msg.setIcon(QMessageBox.Information)
+        #msg.exec_()
 
 
 #Initialise the App
